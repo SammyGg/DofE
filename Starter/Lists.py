@@ -1,5 +1,5 @@
 total = 0
-expense = []2
+expense = []
 numofexpense= int(input("How many units are you entering\n"))
 for i in range(numofexpense):
     expense.append(int(input("Enter Units\n")))
